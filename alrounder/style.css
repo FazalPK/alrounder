@@ -1,0 +1,224 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 31, 2017, 11:56:47 AM
+    Author     : Jerry
+*/
+
+.wrapper
+{
+    height: 1420px;
+    width: 1000px;
+    background-color: #222222;
+    margin: 0 auto;
+    border-style: solid;
+    border-width: medium;
+}
+.topnav
+{
+    height: 40px;
+    width: 100%;
+    background-color: white;
+    float: left;  
+    padding: 10px;
+
+}
+.topnav .text
+{
+    font-style: normal;
+    font-family: georgia Regular;
+    font-size: 12pt;
+    float: left;
+
+}
+topnav .search-container 
+{
+    float: right;
+}
+.header
+{
+    height:120px;
+    width:100%;
+    background-color: #222222;
+    float: left;
+}
+.header .text
+{
+    font-style: normal;
+    font-family: georgia Regular;
+    float: left;
+    padding-left: 10px;
+    color:white;
+}
+.header .nav
+{
+    font-style: normal;
+    font-family: georgia Regular;
+    float: left;
+    color:white;
+}
+.nav ul li
+{
+    float: left;
+     font-style: normal;
+    font-family: georgia Regular;
+    font-size: 12px;
+    list-style: none;
+    margin-left: 20px;
+    color: white;
+    margin-top: 20px;
+}
+a
+{
+ color: white !important;   
+}
+a:hover
+{
+    color:#7C9C37 !important;
+    text-decoration: none;
+    background-color: transparent;
+}
+.line
+{
+    width: 100%;
+    height:5px;
+    float:left;
+}
+.content
+{
+    height: 470px;
+    width: 100%;
+    background-color: white;
+    float: left;
+    padding-top: 35px;
+    padding-left: 15px;
+    
+}
+.content p 
+{
+    font-style: italic;
+    font-family: georgia Regular;
+    font-size:28px; 
+    padding: 0px 25px 35px 25px;
+    color:black;
+    margin: 0 auto;
+    text-align: center; 
+}
+.box
+{
+    height: 240px;
+    width: 210px;
+    float: left;
+    margin-left:25px;
+    background-color: #F0F0F0;
+   
+}
+.box1
+{
+    height: 120px;
+    width: 210px;
+    font-family: georgia Regular;
+    color: white;
+    font-size: 18pt;
+    background-color: #333333;
+    float: left;
+    padding: 40px ;
+}
+.box h
+{
+    color:#7c9c37;
+    padding: 20px;
+    font-size: 18px;
+    font-family: georgia Regular;
+}
+.box p
+{
+    font-style: normal;
+    font-family: georgia Regular;
+    color: #666666;
+    font-size: 12px;
+    line-height:25px;
+    padding: 10px;
+    float: left;
+}
+.menu
+{
+   background-color: #222222;
+   width: 100%;
+   height:330px;
+   float: left;
+}
+.bar
+{
+    width: 220px;
+    height: auto;
+    margin-left: 10px;
+    margin:10px;
+    float: left;
+}
+.bar r1
+{
+    font-style: normal;
+    font-weight: bold;
+    font-family: georgia Regular;
+    color: #666666;
+    font-size: 14px;
+    float: left;
+}
+.barbox
+{
+    height: 90px;
+    width: 230px;
+    font-family: georgia Regular;
+    color: white;
+    font-size: 18pt;
+    background-color: #333333;
+    float: left;
+    margin:10px;
+    padding-top: 25px;
+    padding-left: 60px;
+}
+.bar p
+{
+    font-style: normal;
+    font-family: georgia Regular;
+    color: #666666;
+    font-size: 12px;
+    line-height:25px;
+    float: left;
+}
+.bar a
+{
+    color:#7C9C37 !important;
+    text-decoration: none;
+    background-color: transparent;  
+}
+.bar ul li
+{
+    
+    float: left;
+    font-style: normal;
+    font-family: georgia Regular;
+    font-size: 12px;
+    padding: 7px;
+    list-style: none;
+}
+.linef
+{
+    width: 100%;
+    height:2px;
+    float:left;
+}
+.footer
+{
+    float:left;
+    width: 100%;
+    height:50px;
+    font-style: normal;
+    font-family: georgia Regular;
+    color: #666666;
+    padding: 20px;
+}
